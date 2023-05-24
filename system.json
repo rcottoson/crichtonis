@@ -26,8 +26,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
+  "url": "http://213.165.236.242:30000/.local/share/FoundryVTT/Data/Crichtonis",
+  "manifest": "http://213.165.236.242:30000/.local/share/FoundryVTT/Data/Crichtonis/system.json",
   "download": "",
   "license": "LICENSE.txt",
   "changelog": "CHANGELOG.md"
