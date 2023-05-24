@@ -12,7 +12,7 @@
     "name": "Asacolips"
   }],
   "esmodules": ["module/crichtonis.mjs"],
-  "styles": [],
+  "styles": ["https://raw.githubusercontent.com/rcottoson/crichtonis/main/css/crichtonis.css],
   "scripts": [],
   "packs": [],
   "languages": [
