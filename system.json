@@ -28,7 +28,7 @@
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/rcottoson/crichtonis",
   "manifest": "https://raw.githubusercontent.com/rcottoson/crichtonis/main/system.json",
-  "download": "https://github.com/rcottoson/zip/raw/main/Crichtonis.zip",
+  "download": "https://github.com/rcottoson/zip/raw/main/crichtonis.zip",
   "license": "LICENSE.txt",
   "changelog": "CHANGELOG.md"
 }
