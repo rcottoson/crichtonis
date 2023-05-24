@@ -1,0 +1,22 @@
+{
+  "CRICHTONIS.AbilityStr": "Strength",
+  "CRICHTONIS.AbilityCon": "Constitution",
+  "CRICHTONIS.AbilityDex": "Dexterity",
+  "CRICHTONIS.AbilityInt": "Intelligence",
+  "CRICHTONIS.AbilityWis": "Wisdom",
+  "CRICHTONIS.AbilityCha": "Charisma",
+
+  "CRICHTONIS.AbilityStrAbbr": "str",
+  "CRICHTONIS.AbilityConAbbr": "con",
+  "CRICHTONIS.AbilityDexAbbr": "dex",
+  "CRICHTONIS.AbilityIntAbbr": "int",
+  "CRICHTONIS.AbilityWisAbbr": "wis",
+  "CRICHTONIS.AbilityChaAbbr": "cha",
+
+  "CRICHTONIS.EffectCreate": "Create Effect",
+  "CRICHTONIS.EffectToggle": "Toggle Effect",
+  "CRICHTONIS.EffectEdit": "Edit Effect",
+  "CRICHTONIS.EffectDelete": "Delete Effect",
+
+  "CRICHTONIS.Add": "Add"
+}
